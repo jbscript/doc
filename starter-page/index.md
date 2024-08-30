@@ -1,3 +1,3 @@
 #dsds
 
-![Alt text](images/Group 289330.png)
+![Alt text](/images/Group%20289330.png)
